@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "be7bef26_32651265",
+        "filename": "arch/arm/configs/lineageos_lt03lte_defconfig",
+        "patchSetId": 1
+      },
+      "lineNbr": 4380,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2017-08-13T17:10:40Z",
+      "side": 1,
+      "message": "You should enable this",
+      "revId": "604d3dbf4c6fe6c0a732efc710253f6be88f40d6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
